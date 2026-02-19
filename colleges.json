@@ -2,7 +2,7 @@
   {
     "college": "Abilene Christina University",
     "website": "https://www.acu.edu",
-    "coords": [0, 0],
+    "coords": [32.46833146, -99.704830514],
     "faculty": [
       {"name":"Dr. Lynette Sharp Penya","email":"sharp.penya@acu.edu","profile":"https://acu.edu/faculty/lynette-sharp-penya/"},
       {"name":"Dorothy C. Andreas","email":"dca20a@acu.edu","profile":"https://acu.edu/faculty/dorothy-andreas/"},
@@ -449,6 +449,7 @@
   ]
 }
 ]
+
 
 
 
