@@ -1,76 +1,70 @@
 [
   {
-    "college": "Abilene Christian University",
-    "website": "https://www.acu.edu",
-    "coords": [32.4701972, -99.7088165],
-    "faculty": [
-      {"name":"Dr. Lynette Sharp Penya","email":"sharp.penya@acu.edu","profile":""}
-    ]
-  },
-  {
     "college": "Abilene Christina University",
     "website": "https://www.acu.edu",
     "coords": [0, 0],
     "faculty": [
-      {"name":"Dorothy C. Andreas","email":"dca20a@acu.edu","profile":""},
-      {"name":"Dr. Jon Camp","email":"jonathan.camp@acu.edu","profile":""},
-      {"name":"Amanda Carrol","email":"amanda.carroll@acu.edu","profile":""},
-      {"name":"Dr. Randall Fowler","email":"rpf23a@acu.edu","profile":""},
-      {"name":"Dr. Lauren Lesley","email":"las02b@acu.edu","profile":""},
-      {"name":"Dr. Suzie Macaluso","email":"scm11a@acu.edu","profile":""},
-      {"name":"Sheila Richie","email":"sdr00a@acu.edu","profile":""},
-      {"name":"Kholo Theldi","email":"kmt11c@acu.edu","profile":""},
-      {"name":"Dr. James Dean Wallace","email":"jdw10b@acu.edu","profile":""},
-      {"name":"Dr. Kenneth Pybus","email":"kenneth.pybus@acu.edu","profile":""},
-      {"name":"Karley Adrion","email":"kna11a@acu.edu","profile":""},
+      {"name":"Dr. Lynette Sharp Penya","email":"sharp.penya@acu.edu","profile":"https://acu.edu/faculty/lynette-sharp-penya/"},
+      {"name":"Dorothy C. Andreas","email":"dca20a@acu.edu","profile":"https://acu.edu/faculty/dorothy-andreas/"},
+      {"name":"Dr. Jon Camp","email":"jonathan.camp@acu.edu","profile":"https://acu.edu/faculty/jonathan-camp/"},
+      {"name":"Amanda Carrol","email":"amanda.carroll@acu.edu","profile":"https://acu.edu/faculty/amanda-carroll/"},
+      {"name":"Dr. Randall Fowler","email":"rpf23a@acu.edu","profile":"https://acu.edu/faculty/randall-fowler/"},
+      {"name":"Dr. Lauren Lesley","email":"las02b@acu.edu","profile":"https://acu.edu/faculty/lauren-lemley/"},
+      {"name":"Dr. Suzie Macaluso","email":"scm11a@acu.edu","profile":"https://acu.edu/faculty/suzanne-macaluso/"},
+      {"name":"Sheila Richie","email":"sdr00a@acu.edu","profile":"https://acu.edu/faculty/sheila-ritchie/"},
+      {"name":"Kholo Theldi","email":"kmt11c@acu.edu","profile":"https://acu.edu/faculty/kholo-theledi/"},
+      {"name":"Dr. James Dean Wallace","email":"jdw10b@acu.edu","profile":"https://acu.edu/faculty/james-wallace/"},
+      {"name":"Dr. Kenneth Pybus","email":"kenneth.pybus@acu.edu","profile":"https://acu.edu/faculty/kenneth-r-pybus/"},
+      {"name":"Karley Adrion","email":"kna11a@acu.edu","profile":"https://acu.edu/faculty/karley-adrion/"},
       {"name":"Lauren Blasingame","email":"lal97p@acu.edu","profile":""},
-      {"name":"Hutton Harris","email":"jhh03c@acu.edu","profile":""},
-      {"name":"Doug Mendenhall","email":"dlm08a@acu.edu","profile":""},
-      {"name":"Summer Walters","email":"skp97a@acu.edu","profile":""},
+      {"name":"Hutton Harris","email":"jhh03c@acu.edu","profile":"https://acu.edu/faculty/hutton-harris/"},
+      {"name":"Doug Mendenhall","email":"dlm08a@acu.edu","profile":"https://acu.edu/faculty/doug-mendenhall/"},
+      {"name":"Summer Walters","email":"skp97a@acu.edu","profile":"https://apply.acu.edu/portal/summer"},
       {"name":"Lisa Wiggins","email":"lrw95q@acu.edu","profile":""},
-      {"name":"Cade White","email":"cade.white@acu.edu","profile":""},
-      {"name":"Dr. Cole Bennett","email":"cole.bennett@acu.edu","profile":""},
-      {"name":"Dr. Bill Carroll II","email":"william.carroll@acu.edu","profile":""},
-      {"name":"Dr. Laura Carroll","email":"laura.carroll@acu.edu","profile":""},
-      {"name":"Karen Cukrowksi","email":"kdc00a@acu.edu","profile":""},
-      {"name":"Dr. Kyle Dickson","email":"dicksonk@acu.edu","profile":""},
-      {"name":"Dr. Jeremy Elliott","email":"jke10a@acu.edu","profile":""},
-      {"name":"Carol Evans","email":"evansc@acu.edu","profile":""},
-      {"name":"Bill Horn","email":"hornw@acu.edu","profile":""},
-      {"name":"Dr. Steven Moore","email":"sxm00b@acu.edu","profile":""},
-      {"name":"Sherry Rankin","email":"rankins@acu.edu","profile":""},
-      {"name":"Leslie Reed","email":"ler16a@acu.edu","profile":""},
-      {"name":"Dr. Paul Roggendorff","email":"par08b@acu.edu","profile":""},
-      {"name":"Shelly Sanders","email":"mrw95v@acu.edu","profile":""},
-      {"name":"Dr. Joe Stephenson","email":"jfs05b@acu.edu","profile":""},
-      {"name":"Debbie Willaims","email":"wlmsdeb@acu.edu","profile":""},
-      {"name":"Todd Womble","email":"mtw04b@acu.edu","profile":""},
-      {"name":"Dr. Neal Coates","email":"coatesn@acu.edu","profile":""},
-      {"name":"Bob Delony","email":"rld07a@acu.edu","profile":""},
-      {"name":"Dr. Candice Ortbals-Wiser","email":"cdo20b@acu.edu","profile":""},
-      {"name":"Benjamin Peterson","email":"bap21b@acu.edu","profile":""},
-      {"name":"Chris Riley","email":"chris.riley@acu.edu","profile":""},
-      {"name":"Dr. Stephanie Talley","email":"srt03c@acu.edu","profile":""},
-      {"name":"Julie Douthit","email":"jkd05a@acu.edu","profile":""},
-      {"name":"Christie Doty","email":"cjd99j@acu.edu","profile":""},
-      {"name":"Dr. Kim Hardin","email":"kam00e@acu.edu","profile":""},
-      {"name":"Dr. Andrew Huddleston","email":"aph97a@acu.edu","profile":""},
-      {"name":"Dr. Dana Kennamer","email":"dlk20b@acu.edu","profile":""},
-      {"name":"Cassie Knutson","email":"cak16b@acu.edu","profile":""},
-      {"name":"Dr. Dana Mayhall","email":"dlm07a@acu.edu","profile":""},
-      {"name":"Dr. Joe McAnulty","email":"jdm21b@acu.edu","profile":""}
+      {"name":"Cade White","email":"cade.white@acu.edu","profile":"https://acu.edu/faculty/cade-white/"},
+      {"name":"Dr. Cole Bennett","email":"cole.bennett@acu.edu","profile":"https://acu.edu/faculty/cole-bennett/"},
+      {"name":"Dr. Bill Carroll II","email":"william.carroll@acu.edu","profile":"https://acu.edu/faculty/william-carroll/"},
+      {"name":"Dr. Laura Carroll","email":"laura.carroll@acu.edu","profile":"https://acu.edu/faculty/laura-carroll/"},
+      {"name":"Karen Cukrowksi","email":"kdc00a@acu.edu","profile":"https://acu.edu/faculty/karen-cukrowski/"},
+      {"name":"Dr. Kyle Dickson","email":"dicksonk@acu.edu","profile":"https://acu.edu/faculty/kyle-dickson/"},
+      {"name":"Dr. Jeremy Elliott","email":"jke10a@acu.edu","profile":"https://acu.edu/faculty/jeremy-elliott/"},
+      {"name":"Carol Evans","email":"evansc@acu.edu","profile":"https://acu.edu/faculty/carol-evans/"},
+      {"name":"Bill Horn","email":"hornw@acu.edu","profile":"https://acu.edu/faculty/william-horn/"},
+      {"name":"Dr. Steven Moore","email":"sxm00b@acu.edu","profile":"https://acu.edu/faculty/steven-moore/"},
+      {"name":"Sherry Rankin","email":"rankins@acu.edu","profile":"https://acu.edu/faculty/sharon-rankin/"},
+      {"name":"Leslie Reed","email":"ler16a@acu.edu","profile":"https://acu.edu/faculty/leslie-reed/"},
+      {"name":"Dr. Paul Roggendorff","email":"par08b@acu.edu","profile":"https://acu.edu/faculty/paul-roggendorff/"},
+      {"name":"Shelly Sanders","email":"mrw95v@acu.edu","profile":"https://acu.edu/faculty/michelle-sanders/"},
+      {"name":"Dr. Joe Stephenson","email":"jfs05b@acu.edu","profile":"https://acu.edu/faculty/joseph-stephenson/"},
+      {"name":"Debbie Willaims","email":"wlmsdeb@acu.edu","profile":"https://acu.edu/faculty/debbie-williams/"},
+      {"name":"Todd Womble","email":"mtw04b@acu.edu","profile":"https://acu.edu/faculty/todd-womble/"},
+      {"name":"Dr. Neal Coates","email":"coatesn@acu.edu","profile":"https://acu.edu/faculty/neal-coates/"},
+      {"name":"Bob Delony","email":"rld07a@acu.edu","profile":"https://acu.edu/faculty/robert-delony/"},
+      {"name":"Dr. Candice Ortbals-Wiser","email":"cdo20b@acu.edu","profile":"https://acu.edu/faculty/candice-ortbals-wiser/"},
+      {"name":"Benjamin Peterson","email":"bap21b@acu.edu","profile":"https://acu.edu/faculty/benjamin-peterson/"},
+      {"name":"Chris Riley","email":"chris.riley@acu.edu","profile":"https://acu.edu/faculty/christopher-riley/"},
+      {"name":"Dr. Stephanie Talley","email":"srt03c@acu.edu","profile":"https://acu.edu/faculty/stephanie-talley/"},
+      {"name":"Julie Douthit","email":"jkd05a@acu.edu","profile":"https://acu.edu/faculty/julie-kay-douthit/"},
+      {"name":"Christie Doty","email":"cjd99j@acu.edu","profile":"https://acu.edu/faculty/cristi-doty/"},
+      {"name":"Dr. Kim Hardin","email":"kam00e@acu.edu","profile":"https://acu.edu/faculty/kimberly-hardin/"},
+      {"name":"Dr. Andrew Huddleston","email":"aph97a@acu.edu","profile":"https://acu.edu/faculty/andrew-huddleston/"},
+      {"name":"Dr. Dana Kennamer","email":"dlk20b@acu.edu","profile":"https://acu.edu/faculty/dana-kennamer/"},
+      {"name":"Cassie Knutson","email":"cak16b@acu.edu","profile":"https://acu.edu/faculty/cassie-knutson/"},
+      {"name":"Dr. Dana Mayhall","email":"dlm07a@acu.edu","profile":"https://acu.edu/faculty/dana-l-mayhall/"},
+      {"name":"Dr. Joe McAnulty","email":"jdm21b@acu.edu","profile":"https://acu.edu/faculty/joseph-mcanulty/"}
     ]
   },
   {
     "college": "Alamo Colleges District",
     "website": "https://www.alamo.edu",
     "coords": [29.4460, -98.4970],
-    "faculty": []
+    "faculty": ["name":"Joseph Liedecke","email":"jliedecke@alamo.edu","profile":""}
+    ]
   },
   {
     "college": "Alvin Community College",
     "website": "https://www.alvincollege.edu",
-    "coords": [0, 0],
+    "coords": [29.39668, 95.23924],
     "faculty": [
       {"name":"Kerriel Lyles","email":"klyles@alvincollege.edu","profile":""}
     ]
@@ -455,6 +449,7 @@
   ]
 }
 ]
+
 
 
 
