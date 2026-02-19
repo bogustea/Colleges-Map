@@ -72,7 +72,7 @@
   {
     "college": "Amarillo College",
     "website": "https://www.actx.edu",
-    "coords": [0, 0],
+    "coords": [35.188336, 101.847089],
     "faculty": [
       {"name":"Catherine Frazer","email":"cafrazer@actx.edu","profile":""},
       {"name":"Dr. Judith L. Carter","email":"jlcarter@actx.edu","profile":""},
@@ -85,27 +85,27 @@
     "website": "https://www.angelo.edu",
     "coords": [31.4350, -100.4470],
     "faculty": [
-      {"name":"Dr. Susana Badiola","email":"susana.badiola@angelo.edu","profile":""},
-      {"name":"Dr. Tony Bartl","email":"tony.bartl@angelo.edu","profile":""},
-      {"name":"Gustavo Campos","email":"manny.campos@angelo.edu","profile":""},
-      {"name":"Anne Arreola","email":"anna.arreola@angelo.edu","profile":""},
-      {"name":"Dr. Erin Ashworth-King","email":"erin.ashworth-king@angelo.edu","profile":""},
-      {"name":"Erica Bailey","email":"erica.bailey@angelo.edu","profile":""},
-      {"name":"Dr. Benjamin Brojakowski","email":"benjamin.brojakowski@angelo.edu","profile":""},
-      {"name":"Jessica Carmona","email":"jessica.carmona@angelo.edu","profile":""},
-      {"name":"Dr. Joel Carr","email":"joel.carr@angelo.edu","profile":""},
-      {"name":"Scarlet Clouse","email":"scarlet.clouse@angelo.edu","profile":""},
-      {"name":"Dr. Jeff Dailey","email":"jeff.dailey@angelo.edu","profile":""},
-      {"name":"Jill Daniel","email":"jill.daniel@angelo.edu","profile":""},
-      {"name":"Dr. Dessie Davis","email":"dessie.davis@angelo.edu","profile":""},
-      {"name":"D.S.W. Kyrbi Davis","email":"kyrbi.davis@angelo.edu","profile":""},
-      {"name":"Matias de Paula","email":"matias.depaula@angelo.edu","profile":""},
-      {"name":"Carlos Diaz","email":"carlos.diaz@angelo.edu","profile":""},
-      {"name":"Jil Dillard","email":"jil.dillard@angelo.edu","profile":""},
-      {"name":"Dr. Layne Dittmann","email":"layne.dittmann@angelo.edu","profile":""},
-      {"name":"Alyssa Drew","email":"alyssa.drew@angelo.edu","profile":""},
-      {"name":"Dr. Alison Dushane","email":"allison.dushane@angelo.edu","profile":""},
-      {"name":"Caitie Dyer","email":"caitie.dyer@angelo.edu","profile":""}
+      {"name":"Dr. Susana Badiola","email":"susana.badiola@angelo.edu","profile":"https://www.angelo.edu/live/profiles/97-susana-badiola"},
+      {"name":"Dr. Tony Bartl","email":"tony.bartl@angelo.edu","profile":"https://www.angelo.edu/live/profiles/116-tony-bartl"},
+      {"name":"Gustavo Campos","email":"manny.campos@angelo.edu","profile":"https://www.angelo.edu/live/profiles/1365-gustavo-campos"},
+      {"name":"Anne Arreola","email":"anna.arreola@angelo.edu","profile":"https://www.angelo.edu/live/profiles/1309-anna-arreola"},
+      {"name":"Dr. Erin Ashworth-King","email":"erin.ashworth-king@angelo.edu","profile":"https://www.angelo.edu/live/profiles/90-erin-ashworth-king"},
+      {"name":"Erica Bailey","email":"erica.bailey@angelo.edu","profile":"https://www.angelo.edu/live/profiles/6561-erica-bailey"},
+      {"name":"Dr. Benjamin Brojakowski","email":"benjamin.brojakowski@angelo.edu","profile":"https://www.angelo.edu/live/profiles/9514-benjamin-brojakowski"},
+      {"name":"Jessica Carmona","email":"jessica.carmona@angelo.edu","profile":"https://www.angelo.edu/live/profiles/15704-jessica-carmona"},
+      {"name":"Dr. Joel Carr","email":"joel.carr@angelo.edu","profile":"https://www.angelo.edu/live/profiles/9503-joel-carr"},
+      {"name":"Scarlet Clouse","email":"scarlet.clouse@angelo.edu","profile":"https://www.angelo.edu/live/profiles/9379-scarlet-clouse"},
+      {"name":"Dr. Jeff Dailey","email":"jeff.dailey@angelo.edu","profile":"https://www.angelo.edu/live/profiles/265-jeff-dailey"},
+      {"name":"Jill Daniel","email":"jill.daniel@angelo.edu","profile":"https://www.angelo.edu/live/profiles/15144-jill-daniel"},
+      {"name":"Dr. Dessie Davis","email":"dessie.davis@angelo.edu","profile":"https://www.angelo.edu/live/profiles/8158-dessie-davis"},
+      {"name":"D.S.W. Kyrbi Davis","email":"kyrbi.davis@angelo.edu","profile":"https://www.angelo.edu/live/profiles/15080-kyrbi-davis"},
+      {"name":"Matias de Paula","email":"matias.depaula@angelo.edu","profile":"https://www.angelo.edu/live/profiles/11728-matias-de-paula"},
+      {"name":"Carlos Diaz","email":"carlos.diaz@angelo.edu","profile":"https://www.angelo.edu/live/profiles/12682-carlos-diaz"},
+      {"name":"Jil Dillard","email":"jil.dillard@angelo.edu","profile":"https://www.angelo.edu/live/profiles/15528-jil-dillard"},
+      {"name":"Dr. Layne Dittmann","email":"layne.dittmann@angelo.edu","profile":"https://www.angelo.edu/live/profiles/9502-layne-dittmann"},
+      {"name":"Alyssa Drew","email":"alyssa.drew@angelo.edu","profile":"https://www.angelo.edu/live/profiles/10029-alyssa-drew"},
+      {"name":"Dr. Alison Dushane","email":"allison.dushane@angelo.edu","profile":"https://www.angelo.edu/live/profiles/4909-allison-dushane"},
+      {"name":"Caitie Dyer","email":"caitie.dyer@angelo.edu","profile":"https://www.angelo.edu/live/profiles/13066-caitie-dyer"}
     ]
   },
   {
@@ -113,7 +113,7 @@
     "website": "https://www.austincollege.edu",
     "coords": [33.64626, -96.594854],
     "faculty": [
-      {"name":"Dr. Meghan Donnelly","email":"mdonnelly@austincollege.edu","profile":""}
+      {"name":"Dr. Meghan Donnelly","email":"mdonnelly@austincollege.edu","profile":"https://www.austincollege.edu/faculty/~board/dr-meghan-donnelly"}
     ]
   },
   {
@@ -127,7 +127,7 @@
   {
     "college": "Brazosport College",
     "website": "https://www.brazosport.edu",
-    "coords": [0, 0],
+    "coords": [29.044786, -95.407907],
     "faculty": [
       {"name":"Dr. Sarah Currie-Harrell","email":"sarah.currie-harrell@brazosport.edu","profile":""},
       {"name":"Derrick Ford","email":"derrick.ford@brazosport.edu","profile":""},
@@ -156,7 +156,7 @@
   {
     "college": "Cisco College",
     "website": "https://www.cisco.edu",
-    "coords": [0, 0],
+    "coords": [32.401132, -98.985206],
     "faculty": [
       {"name":"Tom Bell","email":"Tom.bell@cisco.edu","profile":""}
     ]
@@ -164,7 +164,7 @@
   {
     "college": "College of the Mainland",
     "website": "https://www.com.edu",
-    "coords": [0, 0],
+    "coords": [29.3949554, -95.0004814],
     "faculty": [
       {"name":"David Anderson","email":"banderson@com.edu","profile":""},
       {"name":"Gywndolen Barbee-Yow","email":"gbarbee@com.edu","profile":""},
@@ -180,9 +180,9 @@
     "website": "https://www.dallascollege.edu",
     "coords": [32.7767, -96.7970],
     "faculty": [
-      {"name":"Andrew Tolle","email":"AndrewTolle@dallascollege.edu","profile":""},
-      {"name":"Michael Stone","email":"mstone@DallasCollege.edu","profile":""},
-      {"name":"Hurshel Burton","email":"HBurton@DallasCollege.edu","profile":""}
+      {"name":"Andrew Tolle","email":"AndrewTolle@dallascollege.edu","profile":"https://www.dallascollege.edu/employee-directory/admin/andrewtolle/"},
+      {"name":"Michael Stone","email":"mstone@DallasCollege.edu","profile":"https://www.dallascollege.edu/employee-directory/faculty/mstone/"},
+      {"name":"Hurshel Burton","email":"HBurton@DallasCollege.edu","profile":"https://www.dallascollege.edu/employee-directory/faculty/hburton/"}
     ]
   },
   {
@@ -449,6 +449,7 @@
   ]
 }
 ]
+
 
 
 
